@@ -1,0 +1,30 @@
+.headerLink {
+  color: #999999;
+  font-size: 0.9rem;
+  margin-right: 1.3rem;
+  text-decoration: none;
+}
+
+.header {
+  padding: 1rem 0 3rem;
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+}
+
+.title {
+  color: black;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.headerLink:hover {
+  color: #666666;
+}
+
+.activeHeaderLink {
+  color: #333333;
+}

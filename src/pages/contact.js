@@ -6,9 +6,7 @@ const ContactPage = () => {
     <Layout>
       <h1>Conatct Us</h1>
       <p>0987654321</p>
-      <a href="https://www.google.com/" target="_blank">
-        Google
-      </a>
+      <a href="https://www.google.com/">Google</a>
     </Layout>
   )
 }
